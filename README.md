@@ -4,7 +4,7 @@
 ### June 1st - Jun 30th
 | Day | Diffculty | Problem | Solution |
 |:--:| :--: | :-- | -- |
-| 1 |📗|[Single Number](https://leetcode.com/problems/single-number/) | |
+| 1 |📗|[Single Number](https://leetcode.com/problems/single-number/) | [Solution](https://github.com/anhntsi/leetcode-30days-challenge/blob/main/June-Challenge/single-number.swift) |
 | 2 |📗| [Happy Number](https://leetcode.com/problems/happy-number/) | |
 | 3 |📗| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | |
 | 4 |📗| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | |
